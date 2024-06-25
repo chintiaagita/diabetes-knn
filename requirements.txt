@@ -4,4 +4,3 @@ matplotlib==3.7.1
 scikit-learn
 imbalanced-learn
 pandas==2.0.3
-streamlit
